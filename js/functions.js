@@ -13,10 +13,6 @@ const lenghtStr = (str, maxLenght) => {
   return result;
 };
 
-//console.log(lenghtStr('проверяемая строка', 20));
-//console.log(lenghtStr('проверяемая строка', 18));
-//console.log(lenghtStr('проверяемая строка', 10));
-
 //Функция для проверки, является ли строка
 
 const isPalindrome = (str) => {
