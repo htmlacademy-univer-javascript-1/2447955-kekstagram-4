@@ -4,8 +4,5 @@ Project.load = function (obj) {
 
     if (!load) continue;
 
-    if (load.init) {
-      load.init();
-
   }
 }
