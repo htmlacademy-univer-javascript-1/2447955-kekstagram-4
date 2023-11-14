@@ -6,8 +6,6 @@ Project.load = function (obj) {
 
     if (load.init) {
       load.init();
-    } else {
-      Project.init(load);
-    }
+
   }
 }
